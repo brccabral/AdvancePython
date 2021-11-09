@@ -1,0 +1,12 @@
+2021-11-09 10:36:20,604 - root - DEBUG - debug msg
+2021-11-09 10:36:20,604 - root - DEBUG - debug message here
+2021-11-09 10:36:20,604 - root - INFO - info message here
+2021-11-09 10:36:20,604 - root - WARNING - warning message here
+2021-11-09 10:36:20,604 - root - ERROR - error message here
+2021-11-09 10:36:20,604 - root - CRITICAL - critical message here
+2021-11-09 10:37:39,566 - root - DEBUG - debug msg
+2021-11-09 10:37:39,566 - root - DEBUG - debug message here
+2021-11-09 10:37:39,566 - root - INFO - info message here
+2021-11-09 10:37:39,566 - root - WARNING - warning message here
+2021-11-09 10:37:39,566 - root - ERROR - error message here
+2021-11-09 10:37:39,567 - root - CRITICAL - critical message here
