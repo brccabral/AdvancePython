@@ -1,5 +1,9 @@
 # Filter function
 # filter(func, iterable)
+# filter = (item for item in iterable if function(item))
+# or if func is None, check if all items are True
+# filter = (item for item in iterable if item)
+
 
 # Subrange
 
